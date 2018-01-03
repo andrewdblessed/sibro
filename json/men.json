@@ -1,0 +1,78 @@
+[
+
+    {
+        "title": "Mens Fashion",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [{
+                "title": "Trending",
+                "provider": "pinterest",
+                "arguments": [
+                    "554224366582741293"
+                ]
+            },
+            {
+                "title": "Africa Fashion",
+                "provider": "pinterest",
+                "arguments": [
+                    "554224366582872039"
+                ]
+            },
+            {
+                "title": "Street Style",
+                "provider": "pinterest",
+                "arguments": [
+                    "554224366582872044"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Corporate Style",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [{
+            "title": "steps",
+            "provider": "pinterest",
+            "arguments": [
+                "554224366582872641"
+            ]
+        }]
+    }, {
+        "title": "Shoes & Bag",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [{
+                "title": "Shoes ",
+                "provider": "pinterest",
+                "arguments": [
+                    "554224366582872087"
+                ]
+            },
+            {
+                "title": " Watches",
+                "provider": "pinterest",
+                "arguments": [
+                    "554224366582872090"
+                ]
+            }
+        ]
+    },
+
+    {
+        "title": "Do It Yourself",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [{
+            "title": "Learn Tips",
+            "provider": "pinterest",
+            "arguments": [
+                "554224366582872045"
+            ]
+        }]
+    }
+]

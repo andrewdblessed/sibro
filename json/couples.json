@@ -1,0 +1,18 @@
+[
+  {
+    "title":"Couples Style",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"steps",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872641"
+        ]
+      }
+    ]
+  }
+ ]
+ 

@@ -1,0 +1,144 @@
+[
+  
+{
+    "title":"Africa Fashion",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Africa Women",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872040"
+        ]
+      },
+      {
+        "title":"Make up",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872582"
+        ]
+      },
+      {
+        "title":"Hair style ",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872044"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Couples Style",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"steps",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872641"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Gele styles",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"steps",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872043"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Corporate Wears",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"For Women",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872731"
+        ]
+      }
+    ]
+  },{
+    "title":"Shoes & Bag",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Shoes ",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872087"
+        ]
+      },
+      {
+        "title":" Bags",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872090"
+        ]
+      }
+    ]
+  }, 
+{
+    "title":"Scarfs & Wraps",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"scarfs ",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872363"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Do It Yourself",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Learn Tips",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872045"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Kids Fashion",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+ {
+        "title":"kids Fashion",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872042"
+        ]
+      }
+    ]
+  }
+ ]
+ 

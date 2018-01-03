@@ -1,0 +1,173 @@
+[
+  
+{
+    "title":"Africa Fashion",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Africa Women",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872040"
+        ]
+      },
+{
+        "title":"Gele style",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872043"
+        ]
+      },
+{
+        "title":"kids Fashion",
+        "provider":"pinterest",
+        "arguments":[
+          "554224366582872042"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Corporate Wears",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"For Women",
+        "provider":"pinterest",
+        "arguments":[
+          "44262077526849600"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Shoes",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Women ",
+        "provider":"pinterest",
+        "arguments":[
+          "289919363451206915"
+        ]
+      },
+{
+        "title":"Men",
+        "provider":"pinterest",
+        "arguments":[
+          "563161197092850322"
+        ]
+      }
+    ]
+  }, 
+{
+    "title":"Men Accessories &  Watch",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Watches ",
+        "provider":"pinterest",
+        "arguments":[
+          "487796272078796396"
+        ]
+      },
+{
+        "title":"Accessories",
+        "provider":"pinterest",
+        "arguments":[
+          "384494955625762124"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Hair style",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Hair style ",
+        "provider":"pinterest",
+        "arguments":[
+          "369998994325564876"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Fashion Tips",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Women Diy",
+        "provider":"pinterest",
+        "arguments":[
+          "435371557666177644"
+        ]
+      },
+{
+        "title":"Men Diy",
+        "provider":"pinterest",
+        "arguments":[
+          "495607202682490759"
+        ]
+      }
+    ]
+  }, 
+   {
+    "title":"Store",
+    "drawable":"",
+    "submenu":"Shop online",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Shop Online",
+        "provider":"webview",
+        "arguments":[
+          "https://sibro.sappng.me"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Instagram",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Instagram",
+        "provider":"instagram",
+        "arguments":[
+          "2948597263"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Facebook",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Facebook",
+        "provider":"facebook",
+        "arguments":[
+          "104958162837"
+        ]
+      }
+    ]
+  }
+ ]
